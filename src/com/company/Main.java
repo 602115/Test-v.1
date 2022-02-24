@@ -6,6 +6,8 @@ public class Main {
         boolean antall = true;
         if (antall) {
             System.out.println(antall);
+        }else{
+            System.out.println("Initials is false");
         }
     }
 }
